@@ -5,7 +5,7 @@ This module offers methods to validate IBAN (full and basic validation) wherein 
 
 ## How to use
 * Get an [API Key](https://ibanapi.com/get-api) from the ibanapi.com website.
-* Install the package using the following command `composer install ibanapi/api`
+* Install the package using the following command `composer require ibanapi/api`
 * You can now initialize & use the package as follows
 
 * For full iban validation
